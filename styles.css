@@ -1,0 +1,17 @@
+:root {
+  font-size: 25px;
+  color: white;
+}
+body {
+  background: black;
+  font: 20px;
+}
+button {
+  width: 100px;
+  height: 50px;
+}
+
+.move {
+  transform: translate(50%);
+  transition-duration: 1000ms;
+}

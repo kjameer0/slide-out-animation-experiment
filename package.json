@@ -1,0 +1,26 @@
+{
+  "name": "raw-html-template",
+  "version": "1.0.0",
+  "description": "template for spinning up environment to run tests for html css and typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "com": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.39.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-import-resolver-typescript": "^3.5.5",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-testing-library": "^5.10.3",
+    "prettier": "^2.8.8",
+    "typescript": "^4.6.4"
+  }
+}
